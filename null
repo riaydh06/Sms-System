@@ -1,0 +1,11 @@
+No scheduled commands are ready to run.
+No scheduled commands are ready to run.
+'*' is not recognized as an internal or external command,
+operable program or batch file.
+Running scheduled command: "C:\xampp\php\php.exe" "artisan" send:sms > "NUL" 2>&1
+Running scheduled command: "C:\xampp\php\php.exe" "artisan" send:sms > "NUL" 2>&1
+Running scheduled command: "C:\xampp\php\php.exe" "artisan" send:sms > "NUL" 2>&1
+Running scheduled command: "C:\xampp\php\php.exe" "artisan" send:sms > "NUL" 2>&1
+Running scheduled command: "C:\xampp\php\php.exe" "artisan" send:sms > "NUL" 2>&1
+'*' is not recognized as an internal or external command,
+operable program or batch file.
